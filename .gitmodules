@@ -7,3 +7,6 @@
 [submodule "dias_kuksa"]
 	path = dias_kuksa
 	url = https://github.com/junh-ki/dias_kuksa
+[submodule "dias-kuksa.val"]
+	path = dias-kuksa.val
+	url = https://github.com/junh-ki/kuksa.val
