@@ -1,0 +1,6 @@
+[submodule "dias-logging"]
+	path = dias-logging
+	url = https://github.com/terilenard/dias-logging.git
+[submodule "dias-firewall"]
+	path = dias-firewall
+	url = https://github.com/terilenard/dias-firewall.git
