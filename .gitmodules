@@ -4,3 +4,6 @@
 [submodule "dias-firewall"]
 	path = dias-firewall
 	url = https://github.com/terilenard/dias-firewall.git
+[submodule "dias_kuksa"]
+	path = dias_kuksa
+	url = https://github.com/junh-ki/dias_kuksa
